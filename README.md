@@ -1,1 +1,1 @@
-# Interpretable-CNN-Classification-of-Alzheimer-s-Disease-via-MRI-Heatmaps
+# Interpretable-CNN-Classification-of-Alzheimers-Disease-via-MRI-Heatmaps
